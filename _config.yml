@@ -1,8 +1,8 @@
 # Site title will be used everywhere
 # DON'T USE THIS YML FILE IN YOUR SITE. IT'S FOR TESTING ONLY
-title: SITE TITLE HERE
+title: Ecohydraulics Class - WATS 6900
 description: > # this means to ignore newlines until "baseurl:"
-  Online help and documentation site for the site
+  This is the class resource page for Watershed Sciences 6900 - Ecohdraulics graduate class at Utah State University. Nick Bouwes & Joe Wheaton are the instructors.
 
 port: 4002
 google_analytics: UA-XXXXXXXXXXX-X
