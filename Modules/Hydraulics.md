@@ -5,7 +5,7 @@ weight: 2
 
 # Background
 
-We spent two weeks becoming familiar with fluvial hydraulics for the purposes of how they define physical habitat for fish. 
+We spent two weeks becoming familiar with fluvial hydraulics for the purposes of how they define physical habitat for fish.  
 
 ------
 # Resources
@@ -56,3 +56,9 @@ In the old [Fluvial Hydraulics & Ecohydraulics]() class, a more thorough introdu
 
 - Nahorniak M, Wheaton J, Volk C, Bailey P, Reimer M, Wall E, Whitehead K, Jordan C. 2018. How do we efficiently generate high-resolution hydraulic models at large numbers of riverine reaches? Computers & Geosciences 119 : 80–91. DOI: [10.1016/j.cageo.2018.07.001](https://dx.doi.org/10.1016/j.cageo.2018.07.001)
 
+## Reading Hydraulics
+
+Some geese surfing the Glenwood wave... they're clearly reading hydraulics just to have fun:
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xQfSx6zEey0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
