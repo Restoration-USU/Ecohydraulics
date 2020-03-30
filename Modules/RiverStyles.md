@@ -24,7 +24,6 @@ weight: 8
 <iframe width="560" height="315" src="https://www.youtube.com/embed/07KPKecyCf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 -------
 ### River Styles Framework Intro
 In this 19 minute video we provide an overview of the River Styles framework, its uptake and applicability internationally, and why we're using it here.
@@ -53,45 +52,37 @@ In this 11 minute video we cover stage 3 of the River Styles framework:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hL9wjJ4LoDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Stage 4 - Management Applicationss
-
+#### Stage 4 - Management Applications
+In this 6 minute video, we cover stage 4 of the River Styles framework, which brings everything together.
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Io75djSLz5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ------
 ### Reminder of Fluvial Taxonomy
 
-<div class="responsive-embed">
-</div>
-
-### Margins (entry into Valley Setting)
+The Wheaton et al. (2015) Fluvial Taxonmy was something we covered in our [fluvial geomorphology]({{ site.baseurl }}/Modules/Geomorph.html) module,  but its helpful now that we understand the River Styles Framework, to remind ourselves of the detail it provides at the reach-scale. This 11 minute video reviews what we covered previously:
 
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FrP1oZNxxYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Geomorphic Units
 
-<div class="responsive-embed">
-</div>
-
-#### Structural Elements
-
-<div class="responsive-embed">
-</div>
 
 ### Network Scale Predictions of? For?
-
+This is a little four minute recap of what we're going to use River Styles for, in the end.
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPnw0cXDvZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Example Applications
 
-<div class="responsive-embed">
-</div>
 
 #### Middle Fork John Day
+This 11 minute video is loptional, but shows an example of complete application of the River Styles Framework, for the Middle Fork John Day.
 
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CTTmAa0B3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Lower White River
