@@ -7,7 +7,7 @@ weight: 8
 
 # Background
 
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/NeedRS.png"></a> We need to use a network scale estimate of "physical habitat" or geomorphology, to upscale our site-scale ecohydraulic analysis to the population scale at the network. We use the  [River Styles Framework](https://riverstyles.com/) to do that. 
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/NeedRS.png"></a> We need to use a network scale estimate of "physical habitat" or geomorphology, to upscale our site-scale ecohydraulic analysis to the population scale at the network. We used the  [River Styles Framework](https://riverstyles.com/) to do that. 
 
 ------
 # Resources
@@ -27,27 +27,33 @@ weight: 8
 
 -------
 ### River Styles Framework Intro
+In this 19 minute video we provide an overview of the River Styles framework, its uptake and applicability internationally, and why we're using it here.
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVszpBvs9rw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Stage 1 - Character & Behavior
+In this 21 minute video we dive into the application of Stage 1 of the River Styles framework:
 
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ogZ3m-RrpDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Stage 2 - Geomorphic Condition
+In this 13 minute video we explain Stage 2 of the River Styles framework:
 
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pN9b4BQ4KpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Stage 3 - Recovery Potentatial
-
+In this 11 minute video we cover stage 3 of the River Styles framework:
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hL9wjJ4LoDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Stage 4 - Management Applications
+#### Stage 4 - Management Applicationss
 
 <div class="responsive-embed">
 </div>
@@ -89,13 +95,17 @@ weight: 8
 </div>
 
 #### Lower White River
+This 10 minute video is optional, but shows a Colorado Plateau example of application of the River Styles Framework and what you get when you add a little closer look at confinement mapping and the flavor confining margins.
 
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0VKZCbjokNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Homework
+In this 5 minute video, I explain your homework assignment for applying River Styles to Temple Fork.
 
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_2S7ONx-Bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
