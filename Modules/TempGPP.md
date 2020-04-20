@@ -5,11 +5,11 @@ weight: 11
 
 # Background
 
-## Synopsis of Topic
+## Temperature affects all physiological processes of life and is extremely influential to the behavior, growth, and survival of fishes.  Temperature is also a very synthetic response to stream geomorphology, hydrology, and nearside stream vegetation.  As such, temperature can be heavily influenced by land use and stream restoration, and may be a source of impairment that we may be able to mitigate. 
 
+## Primary production (e.g. periphyton) is a major driver of secondary production or stream invertebrates, which is the food source for many stream fishes, including salmonids. The amount of food available for fish is also extremely important component of fish habitat that does not often gain a lot of attention. While invertebrate abundance and production is a much more direct measure of food production for fish, it is extremely difficult and time consuming to measure. Methods are available to measure and model the amount of gross primary production (GPP) that are much more accessible that may provide a proxy for relative stream invertebrate production as a food source for fishes.      
 
-## Why we're covering it
-
+## Because temperature and production are such an important of fish habitat, we first describe some of the basic drivers of these two variables and then review models to extrapolate this across large spatial scales.  
 ------
 # Resources
 
