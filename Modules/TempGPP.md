@@ -29,6 +29,15 @@ weight: 11
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z-MioX_-KfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Temperature Models (Part 4)
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aokPwPKSoVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Temperature Model continued (Part 5)
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLgZFEKfQO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Reading
