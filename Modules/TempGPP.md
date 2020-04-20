@@ -35,4 +35,11 @@ weight: 11
 
 ## Reading
 
+- Anon. n.d. Justice et al. - 2017 - Can stream and riparian restoration offset climate.pdf
+Justice C, White SM, McCullough DA, Graves DS, Blanchard MR. 2017. Can stream and riparian restoration offset climate change impacts to salmon populations? Journal of Environmental Management 188 : 212–227. DOI: [10.1016/j.jenvman.2016.12.005](https://dx.doi.org/10.1016/j.jenvman.2016.12.005).
+- Poole GC, Berman CH. 2001. An Ecological Perspective on In-Stream Temperature: Natural Heat Dynamics and Mechanisms of Human-CausedThermal Degradation. Environmental Management 27 : 787–802. DOI: [10.1007/s002670010188](https://dx.doi.org/10.1007/s002670010188).
+
+
+
+
 ## Other Resources
