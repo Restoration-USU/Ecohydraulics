@@ -21,14 +21,14 @@ weight: 11
 
 ### Heat Transfer (Part 2)
 <div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z-MioX_-KfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M1AdZCFJ8gM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Mass Transfer (Part 3)
-
 <div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M1AdZCFJ8gM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-MioX_-KfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 
 ## Reading
