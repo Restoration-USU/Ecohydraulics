@@ -4,8 +4,11 @@ weight: 11
 ---
 
 # Background
+
 Temperature and stream production (e.g. food) are extremely influential to the behavior, growth, and survival of fishes.  Temperature and invertebrates are also very synthetic responses to stream geomorphology, hydrology, and nearside stream vegetation.  As such, they can be heavily influenced by land use and stream restoration, and can be impaired by anthropogenic impacts that we may be able to mitigate. Because of their importance, we first describe some of the basic drivers of these two variables and then review models to extrapolate this information across large spatial scales.  
+
 ------
+
 # Resources
 
 ## 2020 Lectures from Nick
@@ -41,6 +44,3 @@ Temperature and stream production (e.g. food) are extremely influential to the b
 - <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Poole+Berman+EnvMang01.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Poole GC, Berman CH. 2001. An Ecological Perspective on In-Stream Temperature: Natural Heat Dynamics and Mechanisms of Human-CausedThermal Degradation. Environmental Management 27 : 787–802. DOI: [10.1007/s002670010188](https://dx.doi.org/10.1007/s002670010188).
 
 
-
-
-## Other Resources
