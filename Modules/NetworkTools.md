@@ -6,9 +6,7 @@ weight: 10
 # Background
 
 ## Synopsis of Topic
-
-
-## Why we're covering it
+Network models of riverscapes are what are required to be able to support life cycle modeling at the population scale and act as network co-variates to upscale site-scale information. In this topic we introduce some of the tools available to support these efforts. 
 
 ------
 # Resources
@@ -59,27 +57,57 @@ In many riverscapes, beaver dams can have a profound impact on riverscape condit
 
 ### Riverscapes Consortium – Where we’re going
 <a href="https://riverscapes.xyz"><img class="float-left" src="https://riverscapes.xyz/assets/images/rc/RiverscapesConsortium_Logo_Black_BHS_200w.png"></a>
-The current reality of the state of network models, is that a) the entire . The [Riverscapes Consortium](https://riverscapes.xyz)
+The current reality of the state of network models, is that a) the entire process to support life cycle modelling as envisioned in the Wheaton et al. (2017) paper is only partially realized. In other words, many of the network co-variates required are manually produced network layers. Part of what the [Riverscapes Consortium](https://riverscapes.xyz) has been working on is building the capacity to support this process with its tools.
+
+For this class, watch this:
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eAtfxtVrm3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### What is the Consortium?
+In this less than five minute video we introduce the Riverscape Consortium.
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mfyhjVfECf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Riverscape Consortium Tools & Standards
+In this 20 minute video we introduce how the Riverscape Consortium sets standards for [tool development](https://riverscapes.xyz/Tools/) and the idea of [tool-grade](https://riverscapes.xyz/Tools/#model-discrimination). This is important to understanding and managing expectatons around what a tool can do, versus what it could be able to do with investment in development and deployment.
+
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wcT4vSZmQa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### Riverscape Projects 
+We developed a data standard for packaging up riverscapes analyses (i.e. outputs of any RC compliant tool) into [riverscapes projects](https://riverscapes.xyz/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/). This five minute video explains the basics.
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YvWwaFFzulo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### RAVE
+One of the real advantages of having [riverscapes projects](https://riverscapes.xyz/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/), is the ability to share that data with GIS users for them to explore in GIS. We do this with a simple Add-In to GIS called [RAVE](http://rave.riverscapes.xyz/). We take a test-drive of RAVE in this < five minute video:
+
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9gFvuRWC2AI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### Riverscape Dataset Status Ideas
+In the same way that expectations need to be managed for Riverscape Tools, it is important to provide metadata context for datasets. In this 8 minute video, we lay out some concepts we're exploring with respect to [dataset status](https://riverscapes.xyz/Data_Warehouses/#dataset-discrimination):
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msBhCp6vCsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 #### Riverscape Consortium Warehouses
+The Riverscapes Consortium organizes and serves data via [data warehouses](https://riverscapes.xyz/Data_Warehouses/) . These data warehouses provide access to both the underlying data (packaged in [riverscapes projects](https://riverscapes.xyz/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)) as well as making these data explorable via warehouse explorers or interactive web maps. In this 8 minute video, we show off what these warehouses buy you in terms of housekeeping and reaching broader audiences. 
+
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iuYYsJiTQRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Implications
-
+### Take Aways
+Here we wrap up the Network Tools discussion.
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7MgmiNbCfzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 --------
