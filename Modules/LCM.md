@@ -9,6 +9,8 @@ We are going to describe some simple life-cycle models that can be used to put c
 
 ------
 # Resources
+## 2020 Video Lecture
+### Columbia/Snake River Salmon and Steelhead (Part 1)
 This first lecture is an introduction to salmon and steelhead life-cycles and management complexities that highlight the need for some sort of accounting methods as to the impacts these various actions have during different life-stages relative to what we might be proposing. A life-cycle modeling approach is how we often attempt to quantify these responses.
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tb7RapNZtfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
