@@ -11,7 +11,7 @@ Temperature and stream production (e.g. food) are extremely influential to the b
 
 # Resources
 
-## 2020 Lectures from Nick
+## 2020 Lectures
 ### Temperature Intro (Part 1)
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J37D3LipAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
