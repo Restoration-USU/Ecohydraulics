@@ -5,7 +5,7 @@ weight: 13
 
 # Background
 
-In our last modual we will provide examples of how network scale models of component of fish habitat are used to describe spatially explicit estimates of fish abundance resolved at the reach level across the entire network.  Reach scale infomation was used to validate and often to parameterize the network information.  We provide two examples of how abundance estimates can be incoporated into a life-cycle model to evaluate changes to fish habitat through restoration or climate change. 
+In our last module we will provide examples of how network scale models of component of fish habitat are used to describe spatially explicit estimates of fish abundance resolved at the reach level across the entire network.  Reach scale information was used to validate and often to parameterize the network information.  We provide two examples of how abundance estimates can be incorporated into a life-cycle model to evaluate changes to fish habitat through restoration or climate change. 
 
 ------
 # Resources
