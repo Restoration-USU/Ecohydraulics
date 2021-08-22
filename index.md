@@ -29,7 +29,6 @@ When reflecting on what to cover in *this* graduate course in the [Department of
 -  **hydrologists** and **geomorphologists**, with little background in fisheries and/or ecology, as well as:
 -  **[civil engineers](https://engineering.usu.edu/cee/)** with background in hydraulics and fluid mechanics, but maybe limited exposure to fluvial hydraulics in natural systems and lacking background in biology and ecology
 
-
 We were worried about focusing on developing specific and narrow skillsets  in running hydraulic models to drive ecohydraulic models, and giving students lots of experience in just a few specific flavor of ecohydraulic models that are typically used to look at fish habitat at reach-scales (e.g. resolving habitat at scale fish use it, but only spanning a reach). We decided instead to focus on a specific example that would expose students to the broader management and ecological questions of managing fish populations through studying their habitat (i.e. ecohydraulics). We felt this would expose students to a broader swath of concepts and literature, while giving some experience interpreting and running a large diversity of model types from different disciplines necessary to address a population-scale question, while leveraging the mechanistic insights of what are typically finer-scale lines of inquiry in ecohydraulics. 
 
 <a href="https://www.researchgate.net/publication/314158662_Upscaling_Site-Scale_Ecohydraulic_Models_to_Inform_Salmonid_Population-Level_Life_Cycle_Modelling_and_Restoration_Actions_-_Lessons_from_the_Columbia_River_Basin_Upscaling_Ecohydraulic_Models"><img class="float-left" src="{{ site.baseurl }}/assets/images/covers/Wheaton2017.png"></a> As such, we organized the syllabus around an in-depth review of a paper we (Wheaton et al. 2017) published on [Upscaling Site-Scale Ecohydraulic Models to Inform Salmonid Population-Level Life Cycle Modelling and Restoration Actions – Lessons from the Columbia River Basin](https://www.researchgate.net/publication/314158662_Upscaling_Site-Scale_Ecohydraulic_Models_to_Inform_Salmonid_Population-Level_Life_Cycle_Modelling_and_Restoration_Actions_-_Lessons_from_the_Columbia_River_Basin_Upscaling_Ecohydraulic_Models), based on our experience in running the [Columbia Habitat Monitoring Program](http://champmonitoring.org) to explore whether ESA-listed anadromous salmon populations could be recovered through tributary habitat improvements.
@@ -49,7 +48,7 @@ We were worried about focusing on developing specific and narrow skillsets  in r
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
-    Associate Professor, Ecogeomorphologist
+    Professor of Riverscapes, Ecogeomorphologist
   </div>
 
 </div>
@@ -74,24 +73,20 @@ We were worried about focusing on developing specific and narrow skillsets  in r
 -----
 # Canvas 
 
-For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our Canvas Course Pages:
+For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our [Canvas](https://usu.instructure.com) Course Pages:
 
 <div>
+	<a class="hollow button" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas WATS 6900 Course</a>
 	<a class="hollow button" href="https://usu.instructure.com/courses/580268"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2020 Canvas WATS 6900 Course</a>  
 
 </div>
 
-## COVID-19 Spring 2020 Backdrop
+## COVID-19  Information
 <a class="hollow button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
 
-Utah State University began [teaching remotely on Wednesday, March 18 to prevent the spread of the COVID-19 virus](https://dps.usu.edu/emergency/COVID-19/). Classes on Friday, March 13 through Tuesday, March 17 were canceled to allow faculty members time to move their classes into the online learning environment. 
+
 
 -----
-
-### Past Versions of Ecohyraulics
-- [WATS 6840 - Spring  2011](http://fluvial.joewheaton.org/) - Fluvial Hydraulics & Ecohydraulics
-- [WATS 6840 - Spring 2014](http://fluvial.joewheaton.org/lectures-handouts) - Fluvial Hydraulics & Ecohydraulics
-
 
 ## References on this Page
 
