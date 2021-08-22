@@ -5,7 +5,7 @@ weight: 2
 ## Assigned Readings
 All reading assignments are posted on Canvas.
 <div>
-	<a class="hollow button" href="https://usu.instructure.com/courses/580268/assignments"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2020 Canvas WATS 6900 Course</a>  
+	<a class="hollow button" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Canvas </a>  
 
 </div>
 
