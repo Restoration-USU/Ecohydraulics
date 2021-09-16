@@ -6,10 +6,13 @@ weight: 1
 # WATS 6840 - Syllabus
 
 ## [Catalog Description](https://ssb.banner.usu.edu/)
-**Note that WATS 6840 was previously Fluvial Hydraulics and Ecohydraulics, and an application is pending to rename WATS 6840.**. 
-<!--- This draft needs wordsmithing from Buster... -->
-This course focuses on an introduction to ecohydraulics through the case study of managing fish habitat in the Columbia River Basin to manage for recovery of anadromous salmon populations listed under the Enangered Species Act. Students will be exposed to fluvial hydraulics, fluvial geomorphology and life-cycle modelling. Students will interpret ecohydraulic models ranging from habitat suitability curves, to fuzzy inference system models to bioenergetic models.  Weekend field trip(s) are required. 
 
+Class introduces ecohydraulics through a case study of managing fish habitat across Columbia River Basin for salmon recovery. Students will be exposed to fluvial hydraulic and geomorphology models to drive ecohydraulic models, which are then used to support life-cycle modelling. 
+
+**Note that WATS 6840 was previously Fluvial Hydraulics and Ecohydraulics, and an application is pending to rename WATS 6840. However, Spring 2021 will be WATS 6900**. 
+
+|**Full Title** | Ecohydraulics |
+|**Course Title on Transcript** | Ecohydraulics |
 |**Semester(s) Traditionally Offered**| Alternating Spring|
 |**Credits**: |3.000 Credit hours |
 |**Levels**: |Graduate, Undergraduate|
