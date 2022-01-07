@@ -15,15 +15,16 @@ weight: 2
 # Schedule
 
 ## Spring 2022 WATS 6900
-<!--- Don't forget to update CRN 00000 --->
-[Ecohydraulics - 00000  - WATS 5150 - 001](https://ssb.banner.usu.edu/)
+
+[Ecohydraulics - 13445  - WATS 6900- 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=13445)
 
 <!--- Don't forget to update Zoom link --->
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Lecture/Discussion/Workshop     | 10:30 am - 12:20 pm | Wednesday    | F2F Hybrid - [Zoom Link](https://usu-edu.zoom.us/j/87254201189?pwd=djhBWlE1OXNHdVV0cnkrbGI1QzlBZz09) | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
+| Discussion/Workshop     | 10:30 am - 12:20 pm | Wednesday    | F2F in	Life Science Building 225A   - [Zoom Link](https://usu-edu.zoom.us/j/87254201189?pwd=djhBWlE1OXNHdVV0cnkrbGI1QzlBZz09) | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
 
+This is a face to face delivery class, and we plan to meet in person at LSB 225A every Wednesay. However, we are the midst of a pandemic so we may revert to Zoom We have one remote student, so we will be using the same [Zoom Link](https://usu-edu.zoom.us/j/87254201189?pwd=djhBWlE1OXNHdVV0cnkrbGI1QzlBZz09) for every class. 
 
 We will use the same recurring Zoom Meeting Link:
 <div align="center">
@@ -33,9 +34,9 @@ We will use the same recurring Zoom Meeting Link:
 
 ### Course Schedule / Outline
 
-<!--- Don't forget to update Canvas link --->
+
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/683598"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
 </div>
 
 #### Rough Plan:
