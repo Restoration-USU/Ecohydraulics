@@ -78,11 +78,19 @@ We will use the same recurring Zoom Meeting Link:
 
 
   <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+    <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/JoeWheaton.png"></a>
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
     Professor of Riverscapes<br>
    <b>Instructor</b><br>
    Office Hour: Tuesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/j/84820515528?pwd=WXg1NDhzMWFMSDNJYXVaem1kbllPdz09">Zoom Drop-In @NR360</a> or By Appointment
+  </div>
+  
+  <div class="column column-block">
+    <a href="http://etal.joewheaton.org/lauren-herbine.html"><img src="{{ site.baseurl }}/assets/images/people/Lauren_Round_200.png"></a>
+    <h4><a href="http://etal.joewheaton.org/lauren-herbine.html">Lauren Herbine<sup>1</sup></a></h4>
+    Graduate Research Assistant<br>
+   <b>Teaching Assistant</b><br>
+   Office Hours: TBD -  or By Appointment
   </div>
 
 </div>
