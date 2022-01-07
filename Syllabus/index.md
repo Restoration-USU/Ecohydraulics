@@ -9,7 +9,7 @@ weight: 1
 
 Class introduces ecohydraulics through a case study of managing fish habitat across Columbia River Basin for salmon recovery. Students will be exposed to fluvial hydraulic and geomorphology models to drive ecohydraulic models, which are then used to support life-cycle modelling. 
 
-**Note that WATS 6840 was previously Fluvial Hydraulics and Ecohydraulics, and an application is pending to rename WATS 6840. However, Spring 2021 will be WATS 6900**. 
+**Note that WATS 6840 was previously Fluvial Hydraulics and Ecohydraulics, and an application is pending to rename WATS 6840. However, Spring 2022 will be WATS 6900**. 
 
 |**Full Title** | Ecohydraulics |
 |**Course Title on Transcript** | Ecohydraulics |
@@ -24,14 +24,14 @@ Class introduces ecohydraulics through a case study of managing fish habitat acr
 ## Schedule
 <!--- Don't forget to update Canvas link --->
 [Spring 2022 WATS 6900]({{ site.baseurl }}/Syllabus/2022_Spring.html)
-- [Ecohydraulics - 00000  - WATS 6900 - 00X]() TBD
+- [Ecohydraulics - 13445  - WATS 6900- 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=13445)
 
 
-### Past Versions of Ecohyraulics
+### Past Versions of Ecohydraulics
 
 - [WATS 6900 - Spring 2020](https://usu.instructure.com/courses/580268) - Fluvial Hydraulics & Ecohydraulics
 - [WATS 6840 - Spring 2014](http://fluvial.joewheaton.org/lectures-handouts) - Fluvial Hydraulics & Ecohydraulics
--  -  [WATS 6840 - Spring  2011](http://fluvial.joewheaton.org/) - Fluvial Hydraulics & Ecohydraulics
+- [WATS 6840 - Spring  2011](http://fluvial.joewheaton.org/) - Fluvial Hydraulics & Ecohydraulics
 
 
 
