@@ -85,14 +85,14 @@ We will use the same recurring Zoom Meeting Link:
    <b>Instructor</b><br>
    Office Hour: Tuesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/j/84820515528?pwd=WXg1NDhzMWFMSDNJYXVaem1kbllPdz09">Zoom Drop-In @NR360</a> or By Appointment
   </div>
-  
   <div class="column column-block">
     <a href="http://etal.joewheaton.org/lauren-herbine.html"><img src="{{ site.baseurl }}/assets/images/people/Lauren_Round_200.png"></a>
     <h4><a href="http://etal.joewheaton.org/lauren-herbine.html">Lauren Herbine<sup>1</sup></a></h4>
     Graduate Research Assistant<br>
    <b>Teaching Assistant</b><br>
-   Office Hours: TBD -  or By Appointment
+   Office Hours: Thursdays, 9:00 to 10:00 JQL 147 -  or By Appointment
   </div>
+
 
 </div>
 
