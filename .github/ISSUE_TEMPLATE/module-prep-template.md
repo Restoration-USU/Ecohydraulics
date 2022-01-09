@@ -7,10 +7,14 @@ assignees: ''
 
 ---
 
-This intro module needs:
+This module needs:
 - [ ] Lecture Recorded
 - [ ] Slides Uploaded 
 - [ ] Reading Updated
 - [ ] Check for Consistency with CANVAS
 - [ ] Proofread
 - [ ] Assignment(s) Updated
+
+<!--- UPDATE these links -->
+Code: https://github.com/Restoration-USU/Ecohydraulics/blob/master/Modules/Hydraulics.md
+Rendered Page: https://restoration-usu.github.io/Ecohydraulics/Modules/Hydraulics.html
