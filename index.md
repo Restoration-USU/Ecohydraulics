@@ -21,6 +21,14 @@ In [past versions of this class](http://fluvial.joewheaton.org) it was taught as
   </div>
 </div>
 
+## Spring 2022 Students
+<div align = "center">
+	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/2022_Spring.html"><i class="fa fa-calendar" aria-hidden="true"></i>  Take me to right to <br><b>Spring 2022 <br>Syllabus</b></a>
+	<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas Course <br>WATS 6900</a>
+	  
+
+</div>
+
 ------
 ## Organization of *this* Course
 <a href="{{ site.baseurl }}/assets/images/pics/Scale.png"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/Scale200.png"></a>
