@@ -76,13 +76,12 @@ We were worried about focusing on developing specific and narrow skillsets  in r
 For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our [Canvas](https://usu.instructure.com) Course Pages:
 
 <div>
-	<a class="hollow button" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas WATS 6900 Course</a>
+	<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas WATS 6900 Course</a>
 	<a class="hollow button" href="https://usu.instructure.com/courses/580268"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2020 Canvas WATS 6900 Course</a>  
 
 </div>
 
-## COVID-19  Information
-<a class="hollow button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
+
 
 
 
