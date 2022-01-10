@@ -53,7 +53,7 @@ Enrolled students, please take [Module 1 Quiz](https://usu.instructure.com/cours
         <h4>Intro Lecture </h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://youtu.be/SBDHSw31E7M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SBDHSw31E7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 
