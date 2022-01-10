@@ -24,7 +24,7 @@ weight: 2
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
 | Discussion/Workshop     | 10:30 am - 12:20 pm | Wednesday    | F2F in	Life Science Building 225A   - [Zoom Link](https://usu-edu.zoom.us/j/87254201189?pwd=djhBWlE1OXNHdVV0cnkrbGI1QzlBZz09) | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
 
-This is a face to face delivery class, and we plan to meet in person at LSB 225A every Wednesay. However, we are the midst of a pandemic so we may revert to Zoom. We have one remote student, and a remote instructor for first month. so we will be using the same [Zoom Link](https://usu-edu.zoom.us/j/87254201189?pwd=djhBWlE1OXNHdVV0cnkrbGI1QzlBZz09) for every class to facilitate their participation.  
+This is a face to face delivery class, and we plan to meet in person at LSB 225A every Wednesday. However, we are the midst of a pandemic so we may revert to Zoom. We have one remote student, and a remote instructor for first month. so we will be using the same [Zoom Link](https://usu-edu.zoom.us/j/87254201189?pwd=djhBWlE1OXNHdVV0cnkrbGI1QzlBZz09) for every class to facilitate their participation.  
 
 We will use the same recurring Link:
 <div align="center">
