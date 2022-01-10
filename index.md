@@ -21,6 +21,14 @@ In [past versions of this class](http://fluvial.joewheaton.org) it was taught as
   </div>
 </div>
 
+## Spring 2022 Students
+<div align = "center">
+	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/2022_Spring.html"><i class="fa fa-calendar" aria-hidden="true"></i>  Take me to right to <br><b>Spring 2022 <br>Syllabus</b></a>
+	<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas Course <br>WATS 6900</a>
+	  
+
+</div>
+
 ------
 ## Organization of *this* Course
 <a href="{{ site.baseurl }}/assets/images/pics/Scale.png"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/Scale200.png"></a>
@@ -76,13 +84,12 @@ We were worried about focusing on developing specific and narrow skillsets  in r
 For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our [Canvas](https://usu.instructure.com) Course Pages:
 
 <div>
-	<a class="hollow button" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas WATS 6900 Course</a>
+	<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas WATS 6900 Course</a>
 	<a class="hollow button" href="https://usu.instructure.com/courses/580268"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2020 Canvas WATS 6900 Course</a>  
 
 </div>
 
-## COVID-19  Information
-<a class="hollow button" href="https://dps.usu.edu/emergency/COVID-19/"><img src="/assets/images/covid19-icon.png"> USU's COVID-19 Policies </a>
+
 
 
 

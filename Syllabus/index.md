@@ -91,7 +91,13 @@ There is no mandatory text. Two optional text books include:
 
 
 
+All readings are available in our [Zotero Library](https://www.zotero.org/groups/2441047/ecohydraulics_wats_6900/library):
 
+<div align = "center">
+
+	<a class="hollow button" href="https://www.zotero.org/groups/2441047/ecohydraulics_wats_6900/library"><img src="{{ site.baseurl }}/assets/images/Zotero.png">  Zotero Ecohydraulics Library <br>WATS 6900</a> 
+
+</div>
 
 <!---
 
