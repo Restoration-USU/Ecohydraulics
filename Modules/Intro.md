@@ -40,6 +40,8 @@ This [paper](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/E
 
 ## 2022 Lecture & Slides
 
+Enrolled students, please take [Module 1 Quiz](https://usu.instructure.com/courses/683598/quizzes/1007942?module_item_id=4902182) prior to watching lecture. 
+
 <div class="row small-up-2 medium-up-2">
 
 
@@ -48,15 +50,15 @@ This [paper](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/E
 
 
       <div class="card-section">
-        <h4>Entire Lecture Playlist</h4>
+        <h4>Intro Lecture </h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzLzW6YCSOAcuXv7k3wNRQvz" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/SBDHSw31E7M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 2 hours 2 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hours 10 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
@@ -68,10 +70,10 @@ This [paper](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/E
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_05_Hydraulics.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/slides/Module05.png"></a>
+        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_01.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Week_01.png"></a>
         	</div>
         
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/fluvial/2021/WATS5150_Module_05_Hydraulics.pdf" target="_blank">Module 1  - Slides</a>
+        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_01.pdf" target="_blank">Module 1  - Slides</a>
         
       </div>
     </div>
@@ -89,6 +91,9 @@ This [paper](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/E
 
 ## Reading
 
-- Kemp PS, Katopodis C. 2016. Introducing the Journal of Ecohydraulics: fundamental and applied research on the road to transdisciplinarity. Journal of Ecohydraulics **1** : 1–4. DOI: [10.1080/24705357.2016.1259139](https://doi.org/10.1080/24705357.2016.1259139). [PDF]()
+Please read both papers after having watched the lecture. 
+
+- Kemp PS, Katopodis C. 2016. Introducing the Journal of Ecohydraulics: fundamental and applied research on the road to transdisciplinarity. Journal of Ecohydraulics **1** : 1–4. DOI: [10.1080/24705357.2016.1259139](https://doi.org/10.1080/24705357.2016.1259139). 
 - Wheaton JM, Bouwes N, McHugh P, Saunders WC, Bangen SG, Bailey PE, Nahorniak M, Wall CE and Jordan C. 2017.  [Upscaling Site-Scale Ecohydraulic Models to Inform Salmonid Population-Level Life Cycle Modelling and Restoration Actions – Lessons from the Columbia River Basin](https://www.researchgate.net/publication/314158662_Upscaling_Site-Scale_Ecohydraulic_Models_to_Inform_Salmonid_Population-Level_Life_Cycle_Modelling_and_Restoration_Actions_-_Lessons_from_the_Columbia_River_Basin_Upscaling_Ecohydraulic_Models). Earth Surface Processes and Landforms. DOI: [10.1002/esp.4137](https://dx.doi.org/10.1002/esp.4137).
 
+Note: PDFs for students also available in [Canvas](https://usu.instructure.com/courses/683598/assignments/3647751).
