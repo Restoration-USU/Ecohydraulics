@@ -40,7 +40,7 @@ weight: 3
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_03.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module_03.png"></a>
+        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_03.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module03.png"></a>
         	</div>
         
         <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_03.pdf" target="_blank">Module 3  - Slides</a>
@@ -82,7 +82,7 @@ weight: 3
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_03.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module_03.png"></a>
+        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_03.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module03.png"></a>
         	</div>
         
         <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_03.pdf" target="_blank">Diagonal Bar  - Slides @ end</a>
