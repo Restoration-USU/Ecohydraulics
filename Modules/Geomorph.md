@@ -62,7 +62,7 @@ weight: 3
 
 
       <div class="card-section">
-        <h4>Extra Lecture on Diagonal BAr </h4>
+        <h4>Extra Lecture on Diagonal Bars </h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHIS9QfQvuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -70,7 +70,7 @@ weight: 3
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 18 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 18 minutes <i class="fa fa-youtube-play" aria-hidden="true"> of your life you'll never get back</i>
       </div>
     </div>
   </div>
