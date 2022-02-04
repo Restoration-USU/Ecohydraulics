@@ -53,16 +53,16 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 | 3    |                 1/26                 | [3. Fluvial Geomorphology]({{ site.baseurl }}/Modules/Geomorph.html)  |
 | 4    |                 2/2                  | [4. Traditional Ecohydraulics - HSI]({{ site.baseurl }}/Modules/Ecohydraulics_HSI.html)  |
 | 5    |                 2/9                  | [5. Ecohydraulics - FIS]({{ site.baseurl }}/Modules/Ecohydraulics_FIS.html) |
-| 6    |                 2/16                 | [6. NREI Models]({{ site.baseurl }}/Modules/NREI.html)  |
+| 6    |                 2/16                 | [6. Bioenergetics Models]({{ site.baseurl }}/Modules/Bioenergetics.html)  |
 | 7    | Presidents Day Monday 2/21; No Class |                                                  |
-| 7    |                 2/23                 | [6. NREI Models]({{ site.baseurl }}/Modules/NREI.html)  |
-| 8    |                 3/2                  | [7. River Styles]({{ site.baseurl }}/Modules/RiverSytles.html) |
+| 7    |                 2/23                 | [7. NREI Models]({{ site.baseurl }}/Modules/NREI.html)  |
+| 8    |                 3/2                  | [8. River Styles]({{ site.baseurl }}/Modules/RiverSytles.html) |
 |     | Spring Break; No Class |      3/7 to 3/11                                            |
-| 9    |                 3/16                 | [8. Riverscape Network Models]({{ site.baseurl }}/Modules/NetworkTools.html) |
-| 10   |                 3/23                 | [9. Temperature & Gross Primary Production Models]({{ site.baseurl }}/Modules/TempGPP.html) |
-| 11   |                 3/30                | [10. Fish Life Cycle Models]({{ site.baseurl }}/Modules/LCM.html) |
-| 12   |                 4/6                 | [10. Fish Life Cycle Models (cont.)]({{ site.baseurl }}/Modules/LCM.html) |
-| 13   |                 4/13                  | [11. Upscaling to Network]({{ site.baseurl }}/Modules/Upscaling.html) |
+| 9    |                 3/16                 | [9. Riverscape Network Models]({{ site.baseurl }}/Modules/NetworkTools.html) |
+| 10   |                 3/23                 | [10. Temperature & Gross Primary Production Models]({{ site.baseurl }}/Modules/TempGPP.html) |
+| 11   |                 3/30                | [11. Fish Life Cycle Models]({{ site.baseurl }}/Modules/LCM.html) |
+| 12   |                 4/6                 | [12. Fish Life Cycle Models (cont.)]({{ site.baseurl }}/Modules/LCM.html) |
+| 13   |                 4/13                  | [13. Upscaling to Network]({{ site.baseurl }}/Modules/Upscaling.html) |
 | 14   |                 4/20                 | Final Reports & Synthesis |
 | 15   |                 4/26                 |     Last Day of Classes USU                                           |
 
