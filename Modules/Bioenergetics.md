@@ -8,8 +8,21 @@ Food and temperature are vital components of fish habitat. Bioenergetics models 
 ------
 # Resources
 
-## 2020 Slides
+## 2022 Slides
 
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Fish Habitat Models Intro Lecture </h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o27maPPMtJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 ## Reading
 
