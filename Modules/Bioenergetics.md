@@ -25,7 +25,7 @@ Several approaches have been used to understand and model fish habitat relations
 <br>
           
           </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour and  23 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> total <br> First three suggested (~48 minutes); Last 35 minutes case study for CHaMP specifics (optional)
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour and  13 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> 
       </div>
     </div>
   </div>
