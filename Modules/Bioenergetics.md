@@ -27,5 +27,8 @@ Several approaches have been used to understand and model fish habitat relations
 <i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour and  17 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
 ## Reading
+      
+- Hughes NF, Grand TC. 2000. Physiological Ecology Meets the Ideal-free Distribution: Predicting the Distribution of Size-structured Fish Populations Across Temperature Gradients. Environmental Biology of Fishes **59** : 285–298. DOI: [10.1023/A:1007608720672](https://doi.org/10.1023/A:1007608720672). [PDF](https://usu.instructure.com/courses/683598/files/83072755?wrap=1)
+- Weber N, Bouwes N, Jordan CE. 2014. Estimation of salmonid habitat growth potential through measurements of invertebrate food abundance and temperature. Jonsson B (ed). Canadian Journal of Fisheries and Aquatic Sciences **71** : 1158–1170. DOI: [10.1139/cjfas-2013-0390](https://doi.org/10.1139/cjfas-2013-0390). [PDF](https://usu.instructure.com/courses/683598/files/83072756?wrap=1)
 
 ## Other Resources
