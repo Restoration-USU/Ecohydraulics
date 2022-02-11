@@ -38,10 +38,9 @@ Several approaches have been used to understand and model fish habitat relations
         <h4>Slides</h4>
     <div align="center">
         	
-        	</div>
-        
-        <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://usu.box.com/shared/static/9675jxotz0uqsqdyepnr2i4wb80p0192.pdf" target="_blank">Module 5  - Slides</a>
-        
+   <a href="https://usu.box.com/shared/static/9675jxotz0uqsqdyepnr2i4wb80p0192.pdf" target="_blank"><img src="https://usu.box.com/shared/static/wrzhlwbn3k8bj1ltlq6gj3gnk66lhctj.pdf"></a>
+        	</div>  
+  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://usu.box.com/shared/static/9675jxotz0uqsqdyepnr2i4wb80p0192.pdf" target="_blank">Module 6  - Slides</a>   
       </div>
     </div>
 
