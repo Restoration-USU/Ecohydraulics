@@ -25,7 +25,7 @@ Several approaches have been used to understand and model fish habitat relations
 <br>
 
 
-### First Week (Week 6)
+## Readings
 
 We will discuss:
 
