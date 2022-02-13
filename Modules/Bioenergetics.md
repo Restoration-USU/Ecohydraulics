@@ -38,7 +38,7 @@ Several approaches have been used to understand and model fish habitat relations
         <h4>Slides</h4>
     <div align="center">
         	
-   <a href="https://usu.box.com/shared/static/9675jxotz0uqsqdyepnr2i4wb80p0192.pdf" target="_blank"><img src="https://usu.box.com/shared/static/wrzhlwbn3k8bj1ltlq6gj3gnk66lhctj.pdf"></a>
+   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_notes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module06.png"></a>
         	</div>  
   <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://usu.box.com/shared/static/9675jxotz0uqsqdyepnr2i4wb80p0192.pdf" target="_blank">Module 6  - Slides</a>   
       </div>
