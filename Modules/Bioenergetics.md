@@ -58,10 +58,10 @@ Several approaches have been used to understand and model fish habitat relations
 
 
       <div class="card-section">
-        <h4>Fish Habitat Models Intro Lecture </h4>
+        <h4>Bioenergetics </h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o27maPPMtJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mab22UPxWSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
           
           </div>
