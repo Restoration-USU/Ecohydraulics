@@ -86,6 +86,42 @@ Several approaches have been used to understand and model fish habitat relations
 
   </div>
 </div>
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Bioenergetics </h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ftFCPJPIxb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+          
+          </div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 48 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> 
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+
+   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_part2_notes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module06.png"></a>
+        	</div>  
+  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_part2_notes.pdf" target="_blank">Module 6  - Slides</a>   
+      </div>
+    </div>
+
+  </div>
+</div>
 
 ## Readings
 
