@@ -130,14 +130,14 @@ Several approaches have been used to understand and model fish habitat relations
 
 
       <div class="card-section">
-        <h4>Review of Weber et al. 2014 </h4>
+        <h4>Review of Hughes and Grand 2000 </h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L95hbE3K72I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
           
           </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 22 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> 
+<i class="fa fa-clock-o" aria-hidden="true"></i> 24 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> 
       </div>
     </div>
   </div>
