@@ -10,6 +10,7 @@ Net energy intake (NEI) or net rate energy intake (NREI: synonymous) models inco
 ## Why we're covering it
 
 We have focused on channel morphology, hydraulics, temperature, and food availability as means to describe habitat quality and quantity.  NREI models uses all these variables in a logical mechanistic fashion that has been demonstrated to be robust across multiple setting.  The ability to evaluate multiple scenarios and to predict carrying capacity (a major input to life-cycle models) this approach was a very appealing means to address ESA strategies in ISEMP and CHaMP, a thus a key ecohydraulic model for this class.
+
 ------
 # Resources
 
