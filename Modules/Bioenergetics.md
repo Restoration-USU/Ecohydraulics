@@ -101,7 +101,7 @@ Several approaches have been used to understand and model fish habitat relations
 <br>
           
           </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 24 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> 
+<i class="fa fa-clock-o" aria-hidden="true"></i> 22 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> 
       </div>
     </div>
   </div>
