@@ -1,4 +1,4 @@
-a---
+---
 title: NREI Models
 weight: 7
 ---
@@ -24,6 +24,7 @@ We will primarily discuss:
 
 - Wall CE, Bouwes N, Wheaton JM, Bennett SN, Saunders WC, McHugh PA, Jordan CE. 2017. Design and monitoring of woody structures and their benefits to juvenile steelhead ( *Oncorhynchus mykiss* ) using a net rate of energy intake model. Canadian Journal of Fisheries and Aquatic Sciences **74** : 727–738. DOI: [10.1139/cjfas-2016-0131](https://doi.org/10.1139/cjfas-2016-0131) . [PDF](https://usu.instructure.com/courses/683598/files/83072766?wrap=1)
   
+
 For further reference:
 
 - Hayes JW, Hughes NF, Kelly LH. 2007. Process-based modelling of invertebrate drift transport, net energy intake and reach carrying capacity for drift-feeding salmonids. Ecological Modelling **207** : 171–188. DOI: [10.1016/j.ecolmodel.2007.04.032](https://doi.org/10.1016/j.ecolmodel.2007.04.032). [PDF](https://usu.instructure.com/courses/683598/files/83072764?wrap=1)
