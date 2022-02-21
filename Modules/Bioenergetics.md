@@ -43,7 +43,7 @@ Several approaches have been used to understand and model fish habitat relations
 
    <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_notes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module06.png"></a>
         	</div>  
-  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_notes.pdf" target="_blank">Module 6  - Slides</a>   
+  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_notes.pdf" target="_blank">Module 6  - Fish Habitat Models - Part I Slides</a>   
       </div>
     </div>
 
@@ -58,7 +58,7 @@ Several approaches have been used to understand and model fish habitat relations
 
 
       <div class="card-section">
-        <h4>Bioenergetics </h4>
+        <h4>Bioenergetics Lecture</h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mab22UPxWSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -78,9 +78,9 @@ Several approaches have been used to understand and model fish habitat relations
         <h4>Slides</h4>
     <div align="center">
 
-   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_part2_notes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module06.png"></a>
+   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_Module+6+part+2.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module06_Part2.png"></a>
         	</div>  
-  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_part2_notes.pdf" target="_blank">Module 6  - Slides</a>   
+  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_Module+6+part+2.pdf" target="_blank">Module 6  - Bioenergetics Part II Slides</a>   
       </div>
     </div>
 
@@ -114,9 +114,9 @@ Several approaches have been used to understand and model fish habitat relations
         <h4>Slides</h4>
     <div align="center">
 
-   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_part2_notes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module06.png"></a>
+   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_Module+6_Weber_paper.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/WeberDiscussion.png"></a>
         	</div>  
-  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_part2_notes.pdf" target="_blank">Module 6  - Slides</a>   
+  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_Module+6_Weber_paper.pdf" target="_blank">Module 6  - Weber Review Slides</a>   
       </div>
     </div>
 
@@ -150,9 +150,9 @@ Several approaches have been used to understand and model fish habitat relations
         <h4>Slides</h4>
     <div align="center">
 
-   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_part2_notes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module06.png"></a>
+   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_Module+6_H%26G_paper.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/HughesDiscussion.png"></a>
         	</div>  
-  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_part2_notes.pdf" target="_blank">Module 6  - Slides</a>   
+  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_Module+6_H%26G_paper.pdf" target="_blank">Module 6  - Hughes Discussion Slides</a>   
       </div>
     </div>
 
@@ -164,5 +164,4 @@ We will discuss:
 
 - Hughes NF, Grand TC. 2000. Physiological Ecology Meets the Ideal-free Distribution: Predicting the Distribution of Size-structured Fish Populations Across Temperature Gradients. Environmental Biology of Fishes **59** : 285–298. DOI: [10.1023/A:1007608720672](https://doi.org/10.1023/A:1007608720672). [PDF](https://usu.instructure.com/courses/683598/files/83072755?wrap=1)
 - Weber N, Bouwes N, Jordan CE. 2014. Estimation of salmonid habitat growth potential through measurements of invertebrate food abundance and temperature. Jonsson B (ed). Canadian Journal of Fisheries and Aquatic Sciences **71** : 1158–1170. DOI: [10.1139/cjfas-2013-0390](https://doi.org/10.1139/cjfas-2013-0390). [PDF](https://usu.instructure.com/courses/683598/files/83072756?wrap=1)
-
 
