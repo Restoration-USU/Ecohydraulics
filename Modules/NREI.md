@@ -5,11 +5,7 @@ weight: 7
 
 # Background
 
-Net energy intake (NEI) or net rate energy intake (NREI: synonymous) models incorporate optimal foraging theory with bioenergetics models to describe habitat quality.  Because the model is mechanistic it performs well in multiple settings, and is thus more robust and realistic than traditional habitat suitability models.  While NREI can be measured directly in the field, when combined with hydraulic models, the approach is powerful for evaluating different restoration and management scenarios (e.g. flow regulation, channel reconfiguration, nutrient additions, etc.). Along with rules on territoriality, this model can also be used to estimate carrying capacity of a reach. 
-
-## Why we're covering it
-
-We have focused on channel morphology, hydraulics, temperature, and food availability as means to describe habitat quality and quantity.  NREI models uses all these variables in a logical mechanistic fashion that has been demonstrated to be robust across multiple setting.  Because of their ability to evaluate multiple scenarios and to predict carrying capacity (a major input to life-cycle models) this approach was a very appealing means to address ESA strategies in ISEMP and CHaMP, a thus a key ecohydraulic model for this class.
+Net energy intake (NEI) or net rate energy intake (NREI: synonymous) models incorporate optimal foraging theory with bioenergetics models to describe habitat quality.  Because the model is mechanistic it performs well in multiple settings, and is thus more robust and realistic than traditional habitat suitability models.  While NREI can be measured directly in the field, when combined with hydraulic models, the approach is powerful for evaluating different restoration and management scenarios (e.g. flow regulation, channel reconfiguration, nutrient additions, etc.). Along with rules on territoriality, this model can also be used to estimate carrying capacity of a reach. We have focused on channel morphology, hydraulics, temperature, and food availability as means to describe habitat quality and quantity.  NREI models uses all these variables in a logical mechanistic fashion. Because of their ability to evaluate multiple scenarios and to predict carrying capacity (a major input to life-cycle models) this approach was a very appealing means to address ESA strategies in ISEMP and CHaMP, a thus a key ecohydraulic model for this class.
 
 ------
 # Lectures and slides
