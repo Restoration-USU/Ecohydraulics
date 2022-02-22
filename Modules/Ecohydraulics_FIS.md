@@ -132,3 +132,18 @@ You will turn a zipped up copy of your [GCD project](http://gcd.riverscapes.xyz/
 1. Please include a 1-2 page  write up summary. Explain what you did, and include (a) figure(s) that shows your inputs (velocity and depth maps) as well as your output. In the summary answer the above questions. 
 2. Also submit a shared-link to your Google Sheet.
 3. Submit a zip file of your GCD project.   
+
+-------------
+## Alternative Method using Habitat Model Software
+
+<a href="https://habitat.northarrowresearch.com/"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/HSM_NAR.png"></a> Another way to complete both the assignment above and apply some habitat suitability curves is to use the [Habitat Model Software](https://habitat.northarrowresearch.com/), which we had [North Arrow Research](https://northarrowresearch.com/) develop back in 2015. 
+
+<a href="https://habitat.northarrowresearch.com/"><img src="{{ site.baseurl }}/assets/images/pics/HSM_Screenshot.png"></a>
+
+The stand-alone has no mapping interface, but allows you to work with `*.csv`, `*.shp` shapefiles, or rasters as inputs and outputs, and allows the specification of your own FIS models (also has some pre-loaded) as well as HSCs and HSIs if you want to use those. In the video below, I was unable to get the rasters to work, but was able to get the CSVs to work. This software also allows easy batching of multiple habitat models for the same runs. 
+
+<div class="resoponsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6lnihvvGLJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Post any issues you [find here](https://github.com/NorthArrowResearch/habitatmodel/issues).

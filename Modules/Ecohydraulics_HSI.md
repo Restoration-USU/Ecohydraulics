@@ -5,7 +5,7 @@ weight: 4
 
 # Background
 
-Now that we have covered the physical drivers of habitat (hydraulics and fluvial geomorphology), we can explore how  habitat suitability models work. These habitat suitability models (namely PHABSiM) are the "traditional" ecohydraulic models at the root of the discipline. We get into the sometimes confusing terminology surrounding curves and indices, as well as differences between utilization, preference and suitability. 
+<a href="https://habitat.northarrowresearch.com/"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/hsi_overview.png"></a> Now that we have covered the physical drivers of habitat (hydraulics and fluvial geomorphology), we can explore how  habitat suitability models work. These habitat suitability models (namely [PHABSiM](https://www.sciencebase.gov/catalog/item/56bcd45ae4b08d617f66aa42)) are the "traditional" ecohydraulic models at the root of the discipline. We get into the sometimes confusing terminology surrounding curves and indices, as well as differences between utilization, preference and suitability. 
 
 ------
 # Resources
@@ -51,6 +51,10 @@ Now that we have covered the physical drivers of habitat (hydraulics and fluvial
   </div>
 </div>
 
+## Habitat Modeling Software
+<a href="https://habitat.northarrowresearch.com/"><img class="float-left" src="{{ site.baseurl }}/assets/images/pics/HSM_NAR.png"></a> You can build habitat suitability curves and run habitat suitability index modles using the [Habitat Model Software](https://habitat.northarrowresearch.com/), which we had [North Arrow Research](https://northarrowresearch.com/) develop back in 2015. 
+
+<a href="https://habitat.northarrowresearch.com/"><img src="{{ site.baseurl }}/assets/images/pics/HSM_Screenshot.png"></a>
 
 
 
