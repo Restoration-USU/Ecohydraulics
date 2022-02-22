@@ -12,9 +12,44 @@ Net energy intake (NEI) or net rate energy intake (NREI: synonymous) models inco
 We have focused on channel morphology, hydraulics, temperature, and food availability as means to describe habitat quality and quantity.  NREI models uses all these variables in a logical mechanistic fashion that has been demonstrated to be robust across multiple setting.  Because of their ability to evaluate multiple scenarios and to predict carrying capacity (a major input to life-cycle models) this approach was a very appealing means to address ESA strategies in ISEMP and CHaMP, a thus a key ecohydraulic model for this class.
 
 ------
-# Resources
+# Lectures and slides
 
-## 2020 Slides
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Net rate of energy (NREI) Models Intro Lecture </h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1G9hs3jW6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+          
+          </div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 1 hour and  13 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i> 
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+
+   <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_notes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/lectures/2022_Ecohydraulics_Module06.png"></a>
+        	</div>  
+  <br><br> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Module_06_notes.pdf" target="_blank">Module 6  - Fish Habitat Models - Part I Slides</a>   
+      </div>
+    </div>
+
+  </div>
+</div>
 
 ## Reading
 
