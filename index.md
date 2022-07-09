@@ -21,13 +21,14 @@ In [past versions of this class](http://fluvial.joewheaton.org) it was taught as
   </div>
 </div>
 
-## Spring 2022 Students
+## Syllabus
 <div align = "center">
-	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/2022_Spring.html"><i class="fa fa-calendar" aria-hidden="true"></i>  Take me to right to <br><b>Spring 2022 <br>Syllabus</b></a>
-	<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas Course <br>WATS 6900</a>
-	  
-
+	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/2024_Spring.html"><i class="fa fa-calendar" aria-hidden="true"></i>  Take me to  <br><b>Spring 2024 <br>Syllabus</b></a>
+	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/2022_Spring.html"><i class="fa fa-calendar" aria-hidden="true"></i>  Take me to  <br><b>Spring 2022 <br>Syllabus</b></a>
+	<!---<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas Course <br>WATS 6900</a> -->
 </div>
+
+*This class is taught every other spring. Next planned class is [2024]({{ site.baseurl }}/syllabus/2024_Spring.html). Professor Wheaton will be on sabbatical for 2023. Students for whom this schedule does not work are encouraged to use the [online lectures]({{ site.baseurl }}/Modules/) and assignments for their own self-paced study.*
 
 ------
 ## Organization of *this* Course

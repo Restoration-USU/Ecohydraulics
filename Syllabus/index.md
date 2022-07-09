@@ -23,12 +23,21 @@ Class introduces ecohydraulics through a case study of managing fish habitat acr
 
 ## Schedule
 <!--- Don't forget to update Canvas link --->
-[Spring 2022 WATS 6900]({{ site.baseurl }}/Syllabus/2022_Spring.html)
-- [Ecohydraulics - 13445  - WATS 6900- 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=13445)
+<div align = "center">
+	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/2024_Spring.html"><i class="fa fa-calendar" aria-hidden="true"></i>  Take me to  <br><b>Spring 2024 <br>Syllabus</b></a>
+
+	<!---<a class="hollow button" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2024 Canvas Course <br>WATS 6840</a> -->
+</div>
+
 
 
 ### Past Versions of Ecohydraulics
+<div align = "center">
+	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/2022_Spring.html"><i class="fa fa-calendar" aria-hidden="true"></i>  Take me to  <br><b>Spring 2022 <br>Syllabus</b></a>
+	<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas Course <br>WATS 6900</a> 
+</div>
 
+#### Older Fluvial Hydraulics & Ecohyrdaulics Versions
 - [WATS 6900 - Spring 2020](https://usu.instructure.com/courses/580268) - Fluvial Hydraulics & Ecohydraulics
 - [WATS 6840 - Spring 2014](http://fluvial.joewheaton.org/lectures-handouts) - Fluvial Hydraulics & Ecohydraulics
 - [WATS 6840 - Spring  2011](http://fluvial.joewheaton.org/) - Fluvial Hydraulics & Ecohydraulics
