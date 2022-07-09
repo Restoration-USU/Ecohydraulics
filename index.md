@@ -5,7 +5,7 @@ title: Management & Restoration of Aquatic Ecosystems Capstone Course
 
 # Course Overview
 
-Welcome to the Ecohydraulics Course Website! The primary audience for this site are the students enrolled in [WATS 6900 - Ecohyraulics](https://usu.instructure.com/courses/580268) at Utah State University. However, the resources found here may be of general interest to a broader ecosystem management and restoration community, including practitioners, managers, stakeholders and researchers. 
+Welcome to the Ecohydraulics Course Website! The primary audience for this site are the students enrolled in [WATS 6840 - Ecohydraulics](https://usu.instructure.com/courses/580268) at Utah State University. However, the resources found here may be of general interest to a broader ecosystem management and restoration community, including practitioners, managers, stakeholders and researchers. 
 
 In [past versions of this class](http://fluvial.joewheaton.org) it was taught as a fluvial hydraulics and ecohydraulic course, with a stronger emphasis on fluvial hydraulics. Since then, multiple textbooks on Ecohydraulics have been published (Pasternack 2011; Maddock et al. 2013) & , the [ Journal of Ecohydraulics](https://www.tandfonline.com/toc/tjoe20/current) was established (Kemp & Katopodis, [2016](https://doi.org/10.1080/24705357.2016.1259139)), and the [International Symposium of Ecohydraulics](https://symposium.inrae.fr/ise2020) has met for the 12th time! 
 
