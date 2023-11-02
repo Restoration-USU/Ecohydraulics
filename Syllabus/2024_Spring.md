@@ -12,7 +12,7 @@ weight: 1
 </div>
 --->
 ## Registration
-We are offering Ecohydraulics for Continuing Education Units (CEU) & USU Academic Credit. USU students should register for WATS 6840 - Ecohydraulics. Non-USU students and professionals taking the class for CEU should register for CEWA 6840. 
+We are offering Ecohydraulics for Continuing Education Units (CEU) & USU Academic Credit. USU students should register for WATS 6840 - Ecohydraulics. Non-USU students and professionals taking the class for CEU should register for CEWA 6840. *Registration opens Nov 14, 2023.*
 
 <div align="center">
 <a class="hollow button" href="https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/registration/registration" target="blank"><b>Register for WATS 6840</b><br>USU Students</a>
