@@ -35,7 +35,7 @@ Don't forget to update Zoom link --->
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Discussion/Workshop     | 10:30 am - 12:20 pm | Monday, Wednesday    | F2F in Logan from DE005 and online via [Zoom]() | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
+| Discussion/Workshop     | 10:30 am - 12:20 pm | Monday, Wednesday    | F2F in Logan from DE005 and online via [Zoom]() | Jan 8 - Apr 25,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
 
 This is a hybrid delivery class. For students based on campus in Logan, UT, we will meet in DE005 Monday & Wednesay.  For students taking the course remotely, we will be using the same [Zoom Link]() for every class. 
 
