@@ -3,7 +3,7 @@ title: Spring 2024 Syllabus
 weight: 1
 ---
 
-# WATS 6900 (6840) - Spring 2024 Syllabus
+# WATS/CEWA 6840 Ecohydraulics | Spring 2024 Syllabus
 
 
 <!--- Add image
@@ -11,24 +11,37 @@ weight: 1
 <img width="500" src="{{ site.baseurl }}/assets/images/pics/BridgePatsBDA.png">
 </div>
 --->
+## Registration
+We are offering Ecohydraulics for Continuing Education Units (CEU) & USU Academic Credit. USU students should register for WATS 6840 - Ecohydraulics. Non-USU students and professionals taking the class for CEU should register for CEWA 6840. 
+
+<div align="center">
+<a class="hollow button" href="https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/registration/registration" target="blank"><b>Register for WATS 6840</b><br>USU Students</a>
+
+<a class="hollow button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedSearch&showInternal=false&courseSearch.courseDescriptionKeyword=&courseSearch.partialCourseNumber=&courseSearch.courseCategoryStringArray=0&courseSearch.sectionSemesterIdString=&courseSearch.programAreaStringArray=1134103&courseSearch.deliveryMethodString=&courseSearch.sectionInstructorName=&courseSearch.filterString=availforreg"> <b>Register for CEWA 6840</b> <br>Non-USU students/Professionals </a>
+
+
+
+</div>
+
+
 
 # Schedule
 
-## Spring 2024 WATS 6840
-
+## Spring 2024 WATS/CEWA 6840
+<!--- removing this link as there are 5 CRNs w. different campuses 
 [Ecohydraulics -  CRN TBD  - WATS 6840]()
 
-<!--- Don't forget to update Zoom link --->
+Don't forget to update Zoom link --->
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Discussion/Workshop     | 10:30 am - 12:20 pm | Wednesday    | F2F in	Life Science Building 225A   - [Zoom Link]() | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
+| Discussion/Workshop     | 10:30 am - 12:20 pm | Monday, Wednesday    | F2F in Logan from DE005 and online via [Zoom]() | Jan 10 - Apr 27,  2022 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
 
-This is a face to face delivery class, and we plan to meet in person in LSB 225A every Wednesay.  We have one remote student, so we will be using the same [Zoom Link]() for every class. 
+This is a hybrid delivery class. For students based on campus in Logan, UT, we will meet in DE005 Monday & Wednesay.  For students taking the course remotely, we will be using the same [Zoom Link]() for every class. 
 
 We will use the same recurring Link:
 <div align="center">
-<a class="hollow button" target="" href=""><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Wednesdays</a>
+<a class="hollow button" target="" href=""><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Mondays & Wednesdays</a>
 
 </div>
 
@@ -42,6 +55,8 @@ We will use the same recurring Link:
 #### Rough Plan:
 
 Lectures are all pre-recorded and you will watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructred discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
+
+<!--- UPDATE With 2024 Schedule 
 
 *2022 Schedule... not yet updated, but indicative*
 
@@ -66,7 +81,7 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 | 14   |                 4/26                 |  Last Day of Classes USU |
                                              |
 
-
+--->
 
 
 
@@ -90,14 +105,16 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
    Office Hour: Tuesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/j/84820515528?pwd=WXg1NDhzMWFMSDNJYXVaem1kbllPdz09">Zoom Drop-In @NR360</a> or By Appointment
   </div>
 
-  <div class="column column-block">
+<!--- Replace Lauren w. 2024 Teaching assitant
+
+<div class="column column-block">
     <a href="http://etal.joewheaton.org/lauren-herbine.html"><img src="{{ site.baseurl }}/assets/images/people/Lauren_Round_200.png"></a>
     <h4><a href="http://etal.joewheaton.org/lauren-herbine.html">Lauren Herbine<sup>1</sup></a></h4>
     Graduate Research Assistant<br>
    <b>Teaching Assistant</b><br>
    Office Hours: Thursdays, 9:00 to 10:00 JQL 147 -  or By Appointment
   </div>
-
+--->
 
 </div>
 
@@ -121,7 +138,7 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/) for communication. 
-Please use Office Hours (Tuesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/j/84820515528?pwd=WXg1NDhzMWFMSDNJYXVaem1kbllPdz09) <i class="fa fa-search" aria-hidden="true"></i>
+Please use Office Hours (Tuesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/j/84820515528?pwd=WXg1NDhzMWFMSDNJYXVaem1kbllPdz09)) <i class="fa fa-search" aria-hidden="true"></i>
 
 
 
@@ -132,7 +149,7 @@ Please use Office Hours (Tuesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.u
 
 ## Slides & Handouts
 
-<!---- dont' forget to update CAnvas link --->
+<!---- dont' forget to update Canvas link --->
 
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/683598" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
