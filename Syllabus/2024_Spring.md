@@ -56,29 +56,28 @@ We will use the same recurring Link:
 
 Lectures are all pre-recorded and you will watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructred discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
 
-<!--- UPDATE With 2024 Schedule 
 
-*2022 Schedule... not yet updated, but indicative*
 
-| Week |                 Date (Wednesdays @ 10:30-12:20)                 | Module                                           |
-| ---- | :----------------------------------: | ------------------------------------------------ |
-| 1    |                 1/12                 | [1. Course Overview & Introductions]({{ site.baseurl }}/Modules/Intro.html) |
-| 2    |       MLK Holiday Monday 1/17        |                                                  |
-| 2    |                 1/19                 | [2. Hydraulics]({{ site.baseurl }}/Modules/Hydraulics.html)  |
-| 3    |                 1/26                 | [3. Fluvial Geomorphology]({{ site.baseurl }}/Modules/Geomorph.html)  |
-| 4    |                 2/2                  | [4. Traditional Ecohydraulics - HSI]({{ site.baseurl }}/Modules/Ecohydraulics_HSI.html)  |
-| 5    |                 2/9                  | [5. Ecohydraulics - FIS]({{ site.baseurl }}/Modules/Ecohydraulics_FIS.html) |
-| 6    |                 2/16                 | [6. Bioenergetics Models]({{ site.baseurl }}/Modules/Bioenergetics.html)  |
-| 7    | Presidents Day Monday 2/21; No Class |                                                  |
-| 7    |                 2/23                 | [7. NREI Models]({{ site.baseurl }}/Modules/NREI.html)  |
-| 8    |                 3/2                  | [8. River Styles]({{ site.baseurl }}/Modules/RiverSytles.html) |
-|     | Spring Break; No Class |      3/7 to 3/11                                            |
-| 9    |                 3/23                 | [9. Riverscape Network Models]({{ site.baseurl }}/Modules/NetworkTools.html) |
-| 10   |                 3/30                 | [10. Temperature & Gross Primary Production Models]({{ site.baseurl }}/Modules/TempGPP.html) |
-| 11   |                 4/6                | [11. Fish Life Cycle Models]({{ site.baseurl }}/Modules/LCM.html) |
-| 12   |                 4/13                | [12. Fish Life Cycle Models (cont.)]({{ site.baseurl }}/Modules/LCM.html) |
-| 13   |                 4/20                  | [13. Upscaling to Network]({{ site.baseurl }}/Modules/Upscaling.html) |
-| 14   |                 4/26                 |  Last Day of Classes USU |
+
+| Week | Module                                           |
+| ---- | ------------------------------------------------ |
+| 1    | [1. Course Overview & Introductions]({{ site.baseurl }}/Modules/Intro.html) |
+| 2    |       MLK Holiday Monday      |                                                  |
+| 2    | [2. Hydraulics]({{ site.baseurl }}/Modules/Hydraulics.html)  |
+| 3    | [3. Fluvial Geomorphology]({{ site.baseurl }}/Modules/Geomorph.html)  |
+| 4    | [4. Traditional Ecohydraulics - HSI]({{ site.baseurl }}/Modules/Ecohydraulics_HSI.html)  |
+| 5    | [5. Ecohydraulics - FIS]({{ site.baseurl }}/Modules/Ecohydraulics_FIS.html) |
+| 6    | [6. Bioenergetics Models]({{ site.baseurl }}/Modules/Bioenergetics.html)  |
+| 7    | Presidents Day Monday; No Class |                                                  |
+| 7    | [7. NREI Models]({{ site.baseurl }}/Modules/NREI.html)  |
+| 8    | [8. River Styles]({{ site.baseurl }}/Modules/RiverSytles.html) |
+| 9    | [9. Riverscape Network Models]({{ site.baseurl }}/Modules/NetworkTools.html) |
+|      | Spring Break; No Class |      3/7 to 3/11                                            |
+| 10   | [10. Temperature & Gross Primary Production Models]({{ site.baseurl }}/Modules/TempGPP.html) |
+| 11   | [11. Fish Life Cycle Models]({{ site.baseurl }}/Modules/LCM.html) |
+| 12   | [12. Fish Life Cycle Models (cont.)]({{ site.baseurl }}/Modules/LCM.html) |
+| 13   | [13. Upscaling to Network]({{ site.baseurl }}/Modules/Upscaling.html) |
+| 14   | Last Day of Classes USU |
                                              |
 
 --->
