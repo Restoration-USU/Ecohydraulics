@@ -72,7 +72,7 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 | 7    | [7. NREI Models]({{ site.baseurl }}/Modules/NREI.html)  |
 | 8    | [8. River Styles]({{ site.baseurl }}/Modules/RiverSytles.html) |
 | 9    | [9. Riverscape Network Models]({{ site.baseurl }}/Modules/NetworkTools.html) |
-|      | Spring Break; No Class |      3/7 to 3/11                                            |
+|      | Spring Break; No Class |      3/11 to 3/15                                         |
 | 10   | [10. Temperature & Gross Primary Production Models]({{ site.baseurl }}/Modules/TempGPP.html) |
 | 11   | [11. Fish Life Cycle Models]({{ site.baseurl }}/Modules/LCM.html) |
 | 12   | [12. Fish Life Cycle Models (cont.)]({{ site.baseurl }}/Modules/LCM.html) |
