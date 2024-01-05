@@ -131,7 +131,7 @@ You will turn a zipped up copy of your [GCD project](http://gcd.riverscapes.xyz/
 
 1. Please include a 1-2 page  write up summary. Explain what you did, and include (a) figure(s) that shows your inputs (velocity and depth maps) as well as your output. In the summary answer the above questions. 
 2. Also submit a shared-link to your Google Sheet.
-3. Submit a zip file of your GCD project.   
+3. Submit a zip file or a link to a zip file of your GCD project.   
 
 -------------
 ## Alternative Method using Habitat Model Software
