@@ -5,9 +5,9 @@ title: Management & Restoration of Aquatic Ecosystems Capstone Course
 
 # Course Overview
 
-Welcome to the Ecohydraulics Course Website! The primary audience for this site are the students enrolled in [WATS 6840 - Ecohydraulics](https://usu.instructure.com/courses/580268) at Utah State University. However, the resources found here may be of general interest to a broader ecosystem management and restoration community, including practitioners, managers, stakeholders and researchers. 
+We extend a warm welcome to all students enrolled in [WATS/CEWA 6840 - Ecohydraulics](https://usu.instructure.com/courses/580268) at Utah State University. While this site primarily serves our registered students, we've curated resources that hold value for a more extensive ecosystem management and restoration community. This includes practitioners, managers, stakeholders, and researchers alike.
 
-In [past versions of this class](http://fluvial.joewheaton.org) it was taught as a fluvial hydraulics and ecohydraulic course, with a stronger emphasis on fluvial hydraulics. Since then, multiple textbooks on Ecohydraulics have been published (Pasternack 2011; Maddock et al. 2013) & , the [ Journal of Ecohydraulics](https://www.tandfonline.com/toc/tjoe20/current) was established (Kemp & Katopodis, [2016](https://doi.org/10.1080/24705357.2016.1259139)), and the [International Symposium of Ecohydraulics](https://symposium.inrae.fr/ise2020) has met for the 12th time! 
+In earlier iterations of this course, the curriculum was structured as a blend of fluvial hydraulics and ecohydraulics, with a heavier focus on fluvial hydraulics. However, the field of Ecohydraulics has evolved significantly since then, marking a significant milestone in the realm of aquatic science and ecosystem management. The emergence of pivotal textbooks such as "Ecohydraulics" by Pasternack (2011) and "Ecohydraulics: An Integrated Approach" by Maddock et al. (2013), along with the establishment of the[ Journal of Ecohydraulics](https://www.tandfonline.com/toc/tjoe20/current) was established (Kemp & Katopodis, [2016](https://doi.org/10.1080/24705357.2016.1259139)), and the biennial convening of the [International Symposium of Ecohydraulics](https://symposium.inrae.fr/ise2020), now in its 12th iteration, bear testament to the vibrant and dynamic nature of this field.
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
   <div class="column column-block">
@@ -21,6 +21,10 @@ In [past versions of this class](http://fluvial.joewheaton.org) it was taught as
   </div>
 </div>
 
+We are excited to embark on this journey with you as we explore the ever-expanding horizons of Ecohydraulics. Whether you are a student charting your academic course or a professional navigating the currents of ecosystem management, we are confident that this course will provide valuable insights and resources to enhance your understanding and contribute to your success.
+
+Welcome aboard, and let's navigate the fascinating world of Ecohydraulics together!
+
 ## Syllabus
 <div align = "center">
 	<a class="hollow button" href="{{ site.baseurl }}/Syllabus/2024_Spring.html"><i class="fa fa-calendar" aria-hidden="true"></i>  Take me to  <br><b>Spring 2024 <br>Syllabus</b></a>
@@ -28,15 +32,16 @@ In [past versions of this class](http://fluvial.joewheaton.org) it was taught as
 	<!---<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas Course <br>WATS 6900</a> -->
 </div>
 
-*This class is taught every other spring. Next planned class is [2024]({{ site.baseurl }}/syllabus/2024_Spring.html). Students for whom this schedule does not work are welocme to use the [online lectures]({{ site.baseurl }}/Modules/) and assignments for their own self-paced study.*
+*This class is offered every alternate spring, with the next planned sessions for Spring 2024 and 2026. We understand that this schedule may not align with everyone's availability. For students whose timelines do not coincide with our regular offerings, we offer the flexibility to access our online  [online lectures]({{ site.baseurl }}/Modules/) and assignments, allowing you to engage in self-paced study.*
 
 ------
 ## Organization of *this* Course
 <a href="{{ site.baseurl }}/assets/images/pics/Scale.png"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/Scale200.png"></a>
-When reflecting on what to cover in *this* graduate course in the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/index) we knew we'd be targeting a mixed audience of students including:
-- **ecologists** and **fisheries biologists** in our own department with little of the requisite background in hydraulics, open-channel flow, physics, calculus and/or fluvial geomorphology, as well as:
--  **hydrologists** and **geomorphologists**, with little background in fisheries and/or ecology, as well as:
--  **[civil engineers](https://engineering.usu.edu/cee/)** with background in hydraulics and fluid mechanics, but maybe limited exposure to fluvial hydraulics in natural systems and lacking background in biology and ecology
+As we designed this graduate course within the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/index), we took into consideration our diverse audience of students, each coming from distinct academic backgrounds:
+
+- **Ecologists** and **Fisheries Biologists** : Many of our students within the department may not have a strong foundation in hydraulics, open-channel flow, physics, calculus, or fluvial geomorphology.
+-  **Hydrologists** and **Geomorphologists** : Some students joining our course might excel in hydrology and geomorphology but may have limited exposure to fisheries and ecology.
+-  **[Civil Engineers](https://engineering.usu.edu/cee/)** : We also welcome civil engineers with a background in hydraulics and fluid mechanics. However, their exposure to fluvial hydraulics in natural systems, as well as their background in biology and ecology, may be limited.
 
 We were worried about focusing on developing specific and narrow skillsets  in running hydraulic models to drive ecohydraulic models, and giving students lots of experience in just a few specific flavor of ecohydraulic models that are typically used to look at fish habitat at reach-scales (e.g. resolving habitat at scale fish use it, but only spanning a reach). We decided instead to focus on a specific example that would expose students to the broader management and ecological questions of managing fish populations through studying their habitat (i.e. ecohydraulics). We felt this would expose students to a broader swath of concepts and literature, while giving some experience interpreting and running a large diversity of model types from different disciplines necessary to address a population-scale question, while leveraging the mechanistic insights of what are typically finer-scale lines of inquiry in ecohydraulics. 
 
@@ -49,7 +54,7 @@ We were worried about focusing on developing specific and narrow skillsets  in r
 
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
+    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>2,1</sup></a></h4>
    Aquatic  Ecologist, Adjunct Professor
   </div>
 
@@ -74,9 +79,7 @@ We were worried about focusing on developing specific and narrow skillsets  in r
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/logos/anabranch.png"></a><br>2. 
   </div>
 
-<div class="column column-block">
-    <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/logos/ELR.png"></a><br>3.
-  </div>
+
 </div>
 
 -----
@@ -85,8 +88,8 @@ We were worried about focusing on developing specific and narrow skillsets  in r
 For students enrolled, all course materials can be found on this site, whereas you will submit assignments, track your grades and engage in collaborations on our [Canvas](https://usu.instructure.com) Course Pages:
 
 <div>
-	<a class="hollow button" href="https://usu.instructure.com/courses/683598/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas WATS 6900 Course</a>
-	<a class="hollow button" href="https://usu.instructure.com/courses/580268"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2020 Canvas WATS 6900 Course</a>  
+	<a class="hollow button" href="https://usu.instructure.com/courses/753131/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2024 Canvas WATS/CEWA 6840 Course</a>
+	<a class="hollow button" href="https://usu.instructure.com/courses/683598"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas WATS 6840 Course</a>  
 
 </div>
 
