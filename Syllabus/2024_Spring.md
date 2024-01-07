@@ -49,12 +49,12 @@ We will use the same recurring Link:
 
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2024 Canvas</b><br> For Latest Schedule</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/753131" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2024 Canvas</b><br> For Latest Schedule</a>
 </div>
 
 #### Rough Plan:
 
-Lectures are all pre-recorded and you will watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructred discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
+Lectures are all pre-recorded and you will generally watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructred discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
 
 
 
@@ -85,14 +85,16 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 
 
 ------
-# Instructors
+# Instruction Team
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
-   Aquatic  Ecologist, Adjunct Professor
+    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>2,1</sup></a></h4>
+   Aquatic  Ecologist, Adjunct Professor<br>
+   <b>Instructor</b><br>
+   Office Hours: by Appointment
   </div>
 
 
@@ -101,19 +103,19 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
     Professor of Riverscapes<br>
    <b>Instructor</b><br>
-   Office Hour: Tuesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/j/84820515528?pwd=WXg1NDhzMWFMSDNJYXVaem1kbllPdz09">Zoom Drop-In @NR360</a> or By Appointment
+   Office Hours: Tuesday, 11:00 to 12:00 MT - <a href="https://usu-edu.zoom.us/j/83341579485?pwd=NVhTL01YNjJzRW1xTmRLbmxYS2hZUT09">Zoom</a> or In-Person at NR360
   </div>
 
-<!--- Replace Lauren w. 2024 Teaching assitant
+
 
 <div class="column column-block">
-    <a href="http://etal.joewheaton.org/lauren-herbine.html"><img src="{{ site.baseurl }}/assets/images/people/Lauren_Round_200.png"></a>
-    <h4><a href="http://etal.joewheaton.org/lauren-herbine.html">Lauren Herbine<sup>1</sup></a></h4>
-    Graduate Research Assistant<br>
+    <a href="hhttps://www.anabranchsolutions.com/alec-arditti.html"><img src="{{ site.baseurl }}/assets/images/people/Alec_Round200.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/alec-arditti.html">Alec Arditti<sup>2,1</sup></a></h4>
+     Geomorphologist & Project Manager<br>
    <b>Teaching Assistant</b><br>
-   Office Hours: Thursdays, 9:00 to 10:00 JQL 147 -  or By Appointment
+   Office Hours: by Appointment
   </div>
---->
+
 
 </div>
 
@@ -129,9 +131,7 @@ Lectures are all pre-recorded and you will watch them prior to class on YouTube 
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/logos/anabranch.png"></a><br>2. 
   </div>
 
-<div class="column column-block">
-    <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/logos/ELR.png"></a><br>3.
-  </div>
+
 </div>
 
 
@@ -151,7 +151,7 @@ Please use Office Hours (Tuesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.u
 <!---- dont' forget to update Canvas link --->
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/683598" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2022 Canvas</b><br> For Latest Schedule</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/753131" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2024 Canvas</b><br> For Latest Schedule</a>
 
 <a class="hollow button" href="{{ site.baseurl }}/modules"><img src="{{ site.baseurl }}/assets/images/presentation.png"> <b>Modules</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
