@@ -28,10 +28,7 @@ We are offering Ecohydraulics for Continuing Education Units (CEU) & USU Academi
 # Schedule
 
 ## Spring 2024 WATS/CEWA 6840
-<!--- removing this link as there are 5 CRNs w. different campuses 
-[Ecohydraulics -  CRN TBD  - WATS 6840]()
 
-Don't forget to update Zoom link --->
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
@@ -41,7 +38,7 @@ This is a hybrid delivery class. For students based on campus in Logan, UT, we w
 
 
 
-</div>
+
 
 ### Course Schedule / Outline
 
