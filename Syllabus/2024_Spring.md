@@ -50,12 +50,12 @@ This is a hybrid delivery class. For students based on campus in Logan, UT, we w
 <a class="hollow button" href="https://usu.instructure.com/courses/753131" target="blank"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2024 Canvas</b><br> For Latest Schedule</a>
 </div>
 
-#### Rough Plan:
+
 
 Lectures are all pre-recorded and you will generally watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructred discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
 
 
-
+<!--- 
 
 | Week | Module                                           |
 | ---- | ------------------------------------------------ |
