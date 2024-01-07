@@ -35,13 +35,11 @@ Don't forget to update Zoom link --->
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Discussion/Workshop     | 10:30 am - 12:20 pm | Monday, Wednesday    | F2F in Logan from DE005 and online via [Zoom]() | Jan 8 - Apr 25,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
+| Discussion/Workshop     | 10:30 am - 12:20 pm | Monday, Wednesday    | F2F in Logan from DE005 and online via Zoom | Jan 8 - Apr 25,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) and [Nicolaas Bouwes](https://www.researchgate.net/profile/Nick_Bouwes)|
 
-This is a hybrid delivery class. For students based on campus in Logan, UT, we will meet in DE005 Monday & Wednesay.  For students taking the course remotely, we will be using the same [Zoom Link]() for every class. 
+This is a hybrid delivery class. For students based on campus in Logan, UT, we will meet in DE005 Monday & Wednesay.  For students taking the course remotely, we will be using the same Zoom Link for every class, which you access from [Canvas](https://usu.instructure.com/courses/753131). 
 
-We will use the same recurring Link:
-<div align="center">
-<a class="hollow button" target="" href=""><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Mondays & Wednesdays</a>
+
 
 </div>
 
