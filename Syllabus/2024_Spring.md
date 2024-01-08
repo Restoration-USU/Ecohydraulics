@@ -49,7 +49,7 @@ This is a hybrid delivery class. For students based on campus in Logan, UT, we w
 
 
 
-Lectures are all pre-recorded and you will generally watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructred discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
+Lectures are all pre-recorded and you will generally watch them prior to class on YouTube for each [module]({{ site.baseurl }}/Modules/). Our class meeting times will be a mix of structured and unstructured discussion based on the reading and lectures, as well as exercises to explore specific concepts in more detail. Class will be pretty dysfunctional and hard to follow if you don't watch the lectures ahead of time.   
 
 
 <!--- 
