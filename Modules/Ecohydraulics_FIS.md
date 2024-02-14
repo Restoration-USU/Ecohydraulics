@@ -136,7 +136,7 @@ You will turn a zipped up copy of your [GCD project](http://gcd.riverscapes.xyz/
 -------------
 ## Alternative Method using Habitat Model Software
 
-<a href="https://habitat.northarrowresearch.com/"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/HSM_NAR.png"></a> Another way to complete both the assignment above and apply some habitat suitability curves is to use the [Habitat Model Software](https://habitat.northarrowresearch.com/), which we had [North Arrow Research](https://northarrowresearch.com/) develop back in 2015. 
+<a href="https://habitat.northarrowresearch.com/"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/HSM_NAR.png"></a> Another way to complete both the assignment above and apply some habitat suitability curves is to use the [Habitat Model Software](https://habitat.northarrowresearch.com/), which we had [North Arrow Research](https://northarrowresearch.com/) developed back in 2015 (WARNING: No longer supported and some broekn links). You can download the [FHM here](https://s3.us-west-2.amazonaws.com/releases.northarrowresearch.com/HabitatModel/setup.exe). To install (only on Windows), click on the `More info` link then `Run Anyway`. 
 
 <a href="https://habitat.northarrowresearch.com/"><img src="{{ site.baseurl }}/assets/images/pics/HSM_Screenshot.png"></a>
 
