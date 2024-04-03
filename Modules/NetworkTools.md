@@ -11,12 +11,12 @@ Network models of riverscapes are what are required to be able to support life c
 ------
 # Resources
 
-## 2020 Slides
+## Slides
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020_Ecohydraulics_Week_12.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Lectures/WATS6900_Ecohydraulics_2020_Week12.pdf)
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Week 12: Riverscape Network Models](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Lectures/WATS6900_Ecohydraulics_2020_Week12.pdf) 
 
-## 2020 Lectures
+## Lectures
 
 ### Reminder of What we need
 In this < 5 minute video we position network modelling in the context of the broader ecohydraulics motivation of this class. 
