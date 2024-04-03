@@ -9,7 +9,12 @@ We are going to describe some simple life-cycle models that can be used to put c
 
 ------
 # Resources
-## 2020 Video Lecture
+## Lecture Slides
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Columbia/Snake River Salmon and Steelhead Intro - Slides](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Week14_CRB.pdf) 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Population growth models, a primer Part 1 & 2 - Slides](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Week14_LCM1%262.pdf)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ultistage density dependent models, a primer part 3 - Slides](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Week14_LCM3.pdf)
+  
+## Video Lectures
 ### Columbia/Snake River Salmon and Steelhead, Intro
 This first lecture is an introduction to salmon and steelhead life-cycles and management complexities that highlight the need for some sort of accounting methods as to the impacts these various actions have during different life-stages relative to what we might be proposing. A life-cycle modeling approach is how we often attempt to quantify these responses.
 <div class="responsive-embed">
@@ -42,4 +47,3 @@ Kareiva, P., M. Marvier, and M. McClure. 2000. Recovery and management options f
 
 Weber, N., N. Bouwes, C. Justice, and S. White. 2018. Life - Cycle Model for upper Grande Ronde and Catherine Creek Spring Chinook - Evaluation of Habitat Restoration and Population Recovery Strategies. Prepared for the Bonneville Power Administration by Eco Logical Research and the Columbia Intertribal Fish Commission. DOI: [10.13140/RG.2.2.23968.43524](https://dx.doi.org/10.13140/RG.2.2.23968.43524)
 
-## Other Resources
