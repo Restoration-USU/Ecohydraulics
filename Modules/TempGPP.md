@@ -11,7 +11,12 @@ Temperature and stream production (e.g. food) are extremely influential to the b
 
 # Resources
 
-## 2020 Lectures
+## Lectures
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Temperature Slides](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Week13_Temperature.pdf) 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [GPP Slides](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Week13_GPP.pdf)
+
+  
 ### Temperature Intro (Part 1)
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J37D3LipAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
