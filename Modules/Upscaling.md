@@ -10,7 +10,9 @@ In our last module we will provide examples of how network scale models of compo
 ------
 # Resources
 
-## 2020 Video lectures
+##  Slides
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Upscaling - Slides](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2022/WATS6900_Ecohydraulics_2020_Week15_upscaling.pdf)
+##  Video lectures
 
 ### Can upscaling approaches describe fish habitat and abundance?
 In this lecture, we recap a study where river styles was validated and used to describe fish habitat. When coupled with GPP, reach type was able to predict fish abundance better than typical multivariate approaches. 
@@ -31,4 +33,3 @@ The last example is how we used ecohydraulic models to describe current and expe
 ## Reading
 McHugh, P. A., W. C. Saunders, N. Bouwes, C. E. Wall, S. Bangen, J. M. Wheaton, M. Nahorniak, J. R. Ruzycki, I. A. Tattam, and C. E. Jordan. 2017. Linking models across scales to assess the viability and restoration potential of a threatened population of steelhead (Oncorhynchus mykiss) in the Middle Fork John Day River, Oregon, USA. Ecological Modelling 355:24-38. DOI:[10.1016/j.ecolmodel.2017.03.022](https://doi.org/10.1016/j.ecolmodel.2017.03.022)
 
-## Other Resources
